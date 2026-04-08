@@ -4,4 +4,3 @@ def print_last_digit(number):
     if number < 0:
         last = -last
     print(last, end="")
-    return last
